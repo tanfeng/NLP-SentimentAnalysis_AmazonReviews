@@ -15,7 +15,9 @@ The best businesses understand the sentiment of their customers — what people 
 5 - LDA         -  84.63%                                                                                                                                                            
 6 - SVC         -  86.48%                                                                                                                                                            
 7 - LinSVC      -  89.25%                                                                                                                                                            
-8 - RandForest  -  84.23%                                                                                                                                                            
+8 - RandForest  -  84.23%          
+![image](https://user-images.githubusercontent.com/76809539/140429428-92b69a4b-271e-44e7-8e13-5958f66096e8.png)
+
 # Instruction: 
 
 Use Preprocessor.py only before using ML algorithms (NB, KNN, LDA, SVC, LinearSVC, Random Forest), preprocessing is handled in CNN and LSTM notebooks. The theory and code is explained in the indivdual notebooks. The conclusions drawn from the comparative analysis are also discussed in the notebooks.   
