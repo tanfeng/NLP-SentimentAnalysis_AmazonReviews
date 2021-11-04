@@ -16,7 +16,6 @@ The best businesses understand the sentiment of their customers — what people 
 6 - SVC         -  86.48%                                                                                                                                                            
 7 - LinSVC      -  89.25%                                                                                                                                                            
 8 - RandForest  -  84.23%          
-![image](https://user-images.githubusercontent.com/76809539/140429428-92b69a4b-271e-44e7-8e13-5958f66096e8.png)
 
 # Instruction: 
 
